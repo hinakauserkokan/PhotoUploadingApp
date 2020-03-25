@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "576427909114",
+    "firebase_url": "https://photo-upload-a4629.firebaseio.com",
+    "project_id": "photo-upload-a4629",
+    "storage_bucket": "photo-upload-a4629.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:576427909114:android:77bacd700fd1afdc2c0e43",
+        "android_client_info": {
+          "package_name": "com.example.photoupload"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "576427909114-e9dtohndmqfl8sovdp2deb4rn0udri4k.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.photoupload",
+            "certificate_hash": "6653cdc63822ce0d78b064db88677cf1c0d7ac4b"
+          }
+        },
+        {
+          "client_id": "576427909114-pl2pt14j4b11f5jacu0pf2rl9tqudim2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCsyvGmKEHaoHMDFfm1jkHvCOTNKUcUXJY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "576427909114-pl2pt14j4b11f5jacu0pf2rl9tqudim2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
